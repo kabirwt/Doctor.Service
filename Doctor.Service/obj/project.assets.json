@@ -11059,23 +11059,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\khairul.kabir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\Micro-services\\Doctor.Service\\Doctor.Service\\Doctor.Service.csproj",
+      "projectUniqueName": "C:\\TestProjects\\Doctor.Service\\Doctor.Service\\Doctor.Service.csproj",
       "projectName": "Doctor.Service",
-      "projectPath": "C:\\Study\\Micro-services\\Doctor.Service\\Doctor.Service\\Doctor.Service.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Study\\Micro-services\\Doctor.Service\\Doctor.Service\\obj\\",
+      "projectPath": "C:\\TestProjects\\Doctor.Service\\Doctor.Service\\Doctor.Service.csproj",
+      "packagesPath": "C:\\Users\\khairul.kabir\\.nuget\\packages\\",
+      "outputPath": "C:\\TestProjects\\Doctor.Service\\Doctor.Service\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\khairul.kabir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
